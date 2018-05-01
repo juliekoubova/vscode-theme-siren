@@ -1,8 +1,8 @@
 {
-  "name": "generated-theme",
-  "displayName": "Generated Theme",
-  "publisher": "your-name",
-  "description": "A generated theme for Visual Studio Code",
+  "name": "vscode-theme-siren",
+  "displayName": "Siren by Julie",
+  "publisher": "Julie <julie@juliekoubova.net>",
+  "description": "",
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
@@ -18,7 +18,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Generated theme",
+        "label": "Siren",
         "uiTheme": "vs-dark",
         "path": "./theme.json"
       }
